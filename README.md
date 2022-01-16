@@ -29,4 +29,5 @@
     <a href="https://vk.com/kodya_coder">
       <img src="https://img.shields.io/badge/Vk-07F?style=for-the-badge&logo=vk&logoColor=white" alt="VK profile">
     </a>
+  <h2>THX @iamyuukari</h2>
 </div>
