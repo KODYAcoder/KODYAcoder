@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/ESP8266-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/ESP32-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/NFT-2ca5e0?style=for-the-badge">
 
   
   
