@@ -29,5 +29,8 @@
     <a href="https://vk.com/kodya_coder">
       <img src="https://img.shields.io/badge/Vk-07F?style=for-the-badge&logo=vk&logoColor=white" alt="VK profile">
     </a>
+    <a href="https://lolz.guru/kodya/">
+      <img src="https://img.shields.io/badge/LOLZTEAM-228e5d?style=for-the-badge&logo=lolzteam&logoColor=white" alt="LOLZTEAM PROFILE">
+    </a>
   <h2>THX @iamyuukari</h2>
 </div>
