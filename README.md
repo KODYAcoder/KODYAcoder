@@ -3,15 +3,14 @@
   <h2>I am KODYA - a backend developer</h2>
   
   <p><b>Work and has most experience with the following technologies:</b></p>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Telegram BotAPI-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white">
     <br>
     <br>
   <p>Also I work with:</p>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/blockchain-e7352c?style=for-the-badge&logo=bitcoin&logoColor=white">
     <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/ESP8266-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
