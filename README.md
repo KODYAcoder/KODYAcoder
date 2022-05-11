@@ -26,9 +26,9 @@
     <a href="https://t.me/kodya_coder">
       <img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <a href="https://vk.com/kodya_coder">
+    <!--<a href="https://vk.com/">
       <img src="https://img.shields.io/badge/Vk-07F?style=for-the-badge&logo=vk&logoColor=white" alt="VK profile">
-    </a>
+    </a>-->
     <a href="https://lolz.guru/kodya/">
       <img src="https://img.shields.io/badge/LOLZTEAM-228e5d?style=for-the-badge&logo=lolzteam&logoColor=white" alt="LOLZTEAM PROFILE">
     </a>
