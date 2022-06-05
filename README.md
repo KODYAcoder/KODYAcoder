@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/ESP8266-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/ESP32-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/NFT-blueviolet?style=for-the-badge">
-
+    <img src="https://img.shields.io/badge/hashcat-563D7C?style=for-the-badge&logo=hashcat&logoColor=white">
+    
   
   
   <h2>Some statictics and socials</h2>
